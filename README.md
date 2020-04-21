@@ -1,1 +1,4 @@
 # OpenMarketManagement
+#Request
+ - CPPRESTSDK
+ - OpenSSL
